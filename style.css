@@ -1,0 +1,124 @@
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+nav {
+float: center;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+  margin-left: 30px;
+  padding-top: 30px;
+  padding-right: 30px;
+}
+
+nav a {
+color: blue;
+text-decoration: none;
+text-transform: uppercase;
+font-size: 30px;
+}
+
+.current {
+text-decoration: underline;
+}
+
+.bottomphotos {
+width: 80%;
+height: 80%;
+float: top;
+margin-right: 20px;
+margin-bottom: 15px;
+margin-left: 15px;
+padding: 40px 40px 40px 40px;
+/* border: 1px solid #2B7A78; */
+/* max-width: 1000px; */
+
+}
+img {
+width: 75px;
+float: top;
+
+}
+
+
+body {
+  background-color: transparent;
+  color: transparent;
+  font-family: Helvetica;
+  font-size: 24px;
+  margin: 50px;
+}
+p {
+  margin-top: 50px;
+  margin-bottom: 70px;
+  margin-right: 90px;
+  margin-left: 0;
+}
+h1, h2, h3 {
+  margin-bottom: 20px;
+}
+body {
+  margin: 10px 20px 10px;
+}
+h2{
+  margin: 30px 0;
+}
+P {
+  margin: 15px 0;
+}
+ul, ol {
+  margin: 15px o;
+}
+header,
+section,
+footer {
+  padding: 25px;
+}
+h1 {
+  border-bottom: 0;
+}
+section {
+  border: 5px solid black;
+}
+header {
+  border-bottom: 1px;
+}
+section {
+  border: 1px solid gainsboro;
+  background-color: transparent;
+  margin: 30px;
+  padding: 15px;
+  color: white;
+}
+section {
+    width: 60%;
+  }
+  img {
+    width: 500px;
+  }
+.title {
+  color: blue;
+}
+h2 {
+  color: white;
+  font-style: italic
+}
+#about {
+  background-color: transparent;
+  color: white;
+}
+
+body {
+  background-image: url(images/folk-pattern-black.png);
+  background-repeat: repeat;
+}
+  /* device-width */
